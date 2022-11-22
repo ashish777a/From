@@ -9,3 +9,10 @@
     justify-content: center;
     height: 100vh;    
 }
+.name input{
+    border: px;
+    padding: 20px 6px;
+    width: 270px;
+    border-radius: 8px;
+    margin: 10px;
+}
