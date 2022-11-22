@@ -10,9 +10,15 @@
     height: 100vh;    
 }
 .name input{
-    border: px;
     padding: 20px 6px;
     width: 270px;
     border-radius: 8px;
     margin: 10px;
 }
+.tital a{
+    font-size: 20px;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 15px;
+}
+.
